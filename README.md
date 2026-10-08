@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Arushi 👋
 
-<!--
-**Arushi666/Arushi666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analytics | Excel | Power BI | Python
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I’m interested in **Data Analytics, Business Intelligence, and Data Visualization**, with a focus on turning raw data into meaningful insights and interactive dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+
+* **Microsoft Excel** — Data Analysis, Dashboards & Visualization
+* **Power BI** — Interactive Dashboards & Business Intelligence
+* **Python** — Data Analysis & Visualization
+* **Pandas** — Data Cleaning & Analysis
+* **Matplotlib** — Data Visualization
+
+## 📊 Featured Projects
+
+### ☕ Coffee Sales Excel Dashboard
+
+An Excel-based sales analytics project focused on exploring coffee sales data and presenting insights through an interactive dashboard.
+
+🔗 [View Repository](https://github.com/Arushi666/Coffee-Sales--Excel-Dashboard)
+
+### 🏦 Bank Customer Loan Analytics
+
+A data analytics project focused on analyzing customer and loan-related data to identify useful business insights.
+
+🔗 [View Repository](https://github.com/Arushi666/Bank-Customer-Loan-Analytics)
+
+### 🐍 ABC Bank Customer Analytics — Python
+
+A Python-based customer analytics project using data analysis and visualization techniques to explore customer information and generate insights.
+
+🔗 [View Repository](https://github.com/Arushi666/Abc-Bank-Customer-Analytics-Python)
+
+### 📈 Bank Customer Power BI Dashboard
+
+An interactive Power BI dashboard designed to analyze bank customer data and present key insights visually.
+
+🔗 [View Repository](https://github.com/Arushi666/Bank-Customer-Power-BI-Dashboard)
+
+## 🎯 Areas of Interest
+
+* Data Analytics
+* Business Intelligence
+* Data Visualization
+* Customer Analytics
+* Sales Analytics
+* Dashboard Development
+
+## 🌱 Currently Learning
+
+I’m continuously improving my skills in **data analysis, visualization, and business intelligence**, while building practical projects to strengthen my portfolio.
+
+---
+
+⭐ Thanks for visiting my profile!
